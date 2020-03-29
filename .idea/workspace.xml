@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eed9bd6-da8a-4bae-bf6b-ccc57bf1d885" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Calculator/com/codedany/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codedany/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZnzWFVlgitgJ7YLT9r8SPWejoj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.codedany.Main" />
+      <module name="Calculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eed9bd6-da8a-4bae-bf6b-ccc57bf1d885" name="Default Changelist" comment="" />
+      <created>1585489675280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585489675280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="282" key="GridCell.Tab.0.bottom" timestamp="1585517466347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585517466347" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585502254614" />
+    <state width="1323" height="282" key="GridCell.Tab.0.center" timestamp="1585517466347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="282" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585517466347" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585502254614" />
+    <state width="1323" height="282" key="GridCell.Tab.0.left" timestamp="1585517466346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="282" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585517466346" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585502254614" />
+    <state width="1323" height="282" key="GridCell.Tab.0.right" timestamp="1585517466347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="282" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585517466347" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585502254614" />
+    <state x="1200" y="184" key="extract.method.dialog" timestamp="1585501213641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1200" y="184" key="extract.method.dialog/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585501213641" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1585495446016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585495446016" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1585495584765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/1920.243.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585495584765" />
+  </component>
+</project>
